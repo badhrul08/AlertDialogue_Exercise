@@ -2,6 +2,7 @@ package com.binar.dialogue
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.LayoutInflater
 import android.view.View
 import android.widget.Button
 import android.widget.Toast
@@ -48,7 +49,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.showDialogueCustom.setOnClickListener {
-            val view = View.inflate(this, R.layout.custom_dialogue, null)
+            val view = LayoutInflater.from(this).inflate(R.layout.custom_dialogue, null, false)
             val dialogBuilder = AlertDialog.Builder(this)
             dialogBuilder.setView(view)
 
