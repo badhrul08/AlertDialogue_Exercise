@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Users/badhr/.gradle/caches/transforms-3/adacc4bbdca3c037c01e5031782c646c/transformed/core-1.7.0/res/layout/custom_dialog.xml" value="0.23822463768115942" />
         <entry key="..\:/Users/badhr/AndroidStudioProjects/Dialogue/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/badhr/AndroidStudioProjects/Dialogue/app/src/main/res/layout/custom_dialogue.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/badhr/AndroidStudioProjects/Dialogue/app/src/main/res/layout/alert_dialog_fragment.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/badhr/AndroidStudioProjects/Dialogue/app/src/main/res/layout/custom_dialogue.xml" value="0.2849462365591398" />
         <entry key="..\:/Users/badhr/AndroidStudioProjects/Dialogue/app/src/main/res/layout/customdialog.xml" value="0.4431818181818182" />
+        <entry key="..\:/Users/badhr/AndroidStudioProjects/Dialogue/app/src/main/res/layout/fragment_alert_dialog.xml" value="0.17806484295845998" />
       </map>
     </option>
   </component>
